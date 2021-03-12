@@ -1,16 +1,18 @@
 # smarthome
 
-A new Flutter project.
+❯ This Project was to build a smart app which can switch on/off of your 
+   indoor lights.
+
+❯This app was built through google's latest framework 
+    named Flutter.
+
+❯ Single codebase helps the app to get more effective or frequent updates.
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img height="400" alt="quiz" src="https://user-images.githubusercontent.com/43652071/110911920-535e5e00-8339-11eb-9bfb-b08266787e01.gif">
+<img width="300" alt="quiz" src="https://user-images.githubusercontent.com/43652071/110911986-6a04b500-8339-11eb-9e23-208208b87248.jpg">
+<img width="300" alt="quiz" src="https://user-images.githubusercontent.com/43652071/110911991-6a9d4b80-8339-11eb-88be-0fff56e48050.jpg">
